@@ -1,4 +1,4 @@
-### Olá ✌
+### Olá!
 
 Sou Leonardo Dias, trabalho com desenvolvimento desde 2015 quando inicei o curso de Ciência da Computação.
 
