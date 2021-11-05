@@ -7,4 +7,4 @@ Sou Leonardo Dias, trabalho com desenvolvimento desde 2015 quando inicei o curso
 
 Mais informações:
 
-- [Linkedin](https://www.linkedin.com/in/leonardo-dias-938416143/)
+- [Site](https://linktr.ee/leonardo.dias)
