@@ -6,7 +6,7 @@ Ao longo da minha carreira, atuei em aplicações monolíticas baseadas em **Jav
 
 Tenho como foco criar soluções escaláveis, de fácil manutenção e alinhadas às necessidades do negócio, aplicando boas práticas de desenvolvimento e arquitetura de software.
 
-## 🚀 Principais Tecnologias
+## 🚀 Tecnologias
 
 ☕ Java
 
