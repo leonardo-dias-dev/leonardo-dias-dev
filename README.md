@@ -1,8 +1,28 @@
-### Olá, seja bem-vindo!
+# Olá, seja bem-vindo! 👋
 
-Desde 2015 desenvolvendo soluções com as melhores e mais atuais tecnologias do mercado, ajudando o setor público e privado a melhorarem seus resultados e alcançarem seus objetivos.
+Sou **Leonardo Dias**, desenvolvedor de software com mais de 10 anos de experiência, especializado no ecossistema Java.
 
-- Inovando com as tecnologias mais modernas do mercado.
-- Trabalhando com metodologias ágeis de entrega, buscando sempre realizar entregas de valor.
+Ao longo da minha carreira, atuei em aplicações monolíticas baseadas em **Java EE**, no desenvolvimento de **microsserviços** utilizando **Spring Boot** e construção de interfaces com **Angular**. 
 
-Mais informações: [linktr.ee](https://linktr.ee/leonardo.dias)
+Tenho como foco criar soluções escaláveis, de fácil manutenção e alinhadas às necessidades do negócio, aplicando boas práticas de desenvolvimento e arquitetura de software.
+
+## 🚀 Principais Tecnologias
+
+☕ Java
+
+🌱 Spring Boot
+
+🧩 Microsserviços
+
+🅰️ Angular
+
+🐳 Docker
+
+🔄 Git
+
+## 📫 Contato
+
+
+💼 [LinkedIn](https://www.linkedin.com/in/leonardo-dias-938416143)
+
+📧 [E-mail](mailto:leonardosd.ti@gmail.com)
