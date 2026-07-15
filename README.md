@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo! 👋
 
-Sou **Leonardo Dias**, desenvolvedor de software com mais de 10 anos de experiência, especializado no ecossistema Java.
+Sou **Leonardo Dias**, desenvolvedor de software com mais de 10 anos de experiência, com foco no desenvolvimento de aplicações utilizando Java.
 
 Ao longo da minha carreira, atuei em aplicações monolíticas baseadas em **Java EE**, no desenvolvimento de **microsserviços** utilizando **Spring Boot** e construção de interfaces com **Angular**. 
 
